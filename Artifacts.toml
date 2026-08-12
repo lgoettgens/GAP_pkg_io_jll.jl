@@ -1,86 +1,86 @@
 [[GAP_pkg_io]]
 arch = "aarch64"
-git-tree-sha1 = "c3a4af7b85d840341fd4e225a502573e565164f2"
+git-tree-sha1 = "c3cff3f0321264ac7e28096a0366f1e9b2efbada"
 os = "macos"
 
     [[GAP_pkg_io.download]]
-    sha256 = "7b34e345432cf646f62027e7c12cab985c51870c474f68440e3d5df0f91fceb4"
-    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.90300.1+0/GAP_pkg_io.v401.90300.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "233d7cc0eb84e7a235718dd0b7b5513e9f162f3527f84bda713b25cf562f7d2d"
+    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.100000.0+0/GAP_pkg_io.v401.100000.0.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_io]]
 arch = "aarch64"
-git-tree-sha1 = "cd1ac94821e50a99dba65b3227dfe5923b94fb0a"
+git-tree-sha1 = "1e9468c176cc31fc9f61db6b3d02f42686d1984d"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_io.download]]
-    sha256 = "cc12001b65cbd17de5688eb7ff37453d93ab6bd41114b38cf27a109262d060ef"
-    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.90300.1+0/GAP_pkg_io.v401.90300.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "8269a41f52e8923a259c97afb452d56ec881fdeb94ed1d89912fc51dc293f4f5"
+    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.100000.0+0/GAP_pkg_io.v401.100000.0.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_io]]
 arch = "aarch64"
-git-tree-sha1 = "20c578e58735df8f7a508832ff3addd68ef107dd"
+git-tree-sha1 = "3e863335601c84c48caf5b30fc1b380743957736"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_io.download]]
-    sha256 = "c490539c1054af5c4c4375135d27d83ca7409dcdd7c50e922776451620e9c246"
-    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.90300.1+0/GAP_pkg_io.v401.90300.1.aarch64-linux-musl.tar.gz"
+    sha256 = "e46bffa054b2397c6fe43d35ff8290a37e699485250c91a415d603a9175fbfc0"
+    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.100000.0+0/GAP_pkg_io.v401.100000.0.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_io]]
 arch = "aarch64"
-git-tree-sha1 = "26df4c44b114968f281e6caea8bc0e22363b99c3"
+git-tree-sha1 = "91547cf5252f4f4769d048c7917db1adec655b0b"
 os = "freebsd"
 
     [[GAP_pkg_io.download]]
-    sha256 = "39e816459f408a34b416ae30893d4b505bd85e09faad68f06ab0e8569432cb57"
-    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.90300.1+0/GAP_pkg_io.v401.90300.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "95f4285b5772dfc6978206d3d164e319d72989ec523d2e25e48bf8f810cfbcc3"
+    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.100000.0+0/GAP_pkg_io.v401.100000.0.aarch64-unknown-freebsd.tar.gz"
 [[GAP_pkg_io]]
 arch = "powerpc64le"
-git-tree-sha1 = "26bcc972002fe2431f24b419e408762359a7c3ac"
+git-tree-sha1 = "2a55e3a4d5b3e17153349ca9964c5050cf94cc57"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_io.download]]
-    sha256 = "99a81e9183027071b2c75d2ec6f821030eae2cdcc133e42e57c043e584733f83"
-    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.90300.1+0/GAP_pkg_io.v401.90300.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "6af9312f2c125cf1382df3188c8c31de3680d822aa92a4754f9d2ca8f27a8bd2"
+    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.100000.0+0/GAP_pkg_io.v401.100000.0.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_io]]
 arch = "riscv64"
-git-tree-sha1 = "e28280daa32cd26e16cc74a59197d7b7b43eb6ab"
+git-tree-sha1 = "b911994921d59a30bf5ab9548122f71a4bef2398"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_io.download]]
-    sha256 = "dcb11dc5d38e9f38968b9a12a937da16cf73d55f51eba68ead4d837d38440c9a"
-    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.90300.1+0/GAP_pkg_io.v401.90300.1.riscv64-linux-gnu.tar.gz"
+    sha256 = "14855486c8abe8ad67000ed9164154b1a17995e06021ab9270e470b959b825ba"
+    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.100000.0+0/GAP_pkg_io.v401.100000.0.riscv64-linux-gnu.tar.gz"
 [[GAP_pkg_io]]
 arch = "x86_64"
-git-tree-sha1 = "07747b66e09af12283b1b11baff935a0f008b77c"
+git-tree-sha1 = "2ca573820e202fd5a66146446137d770911a9131"
 os = "macos"
 
     [[GAP_pkg_io.download]]
-    sha256 = "ecd7f3638b6ef5be381222ce917088e0e0868048ec70c724e86b38ec85274be9"
-    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.90300.1+0/GAP_pkg_io.v401.90300.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "1987040f1deeee24cf88b5d67ca69233727819863e6e4047dae7f95934e7059d"
+    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.100000.0+0/GAP_pkg_io.v401.100000.0.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_io]]
 arch = "x86_64"
-git-tree-sha1 = "7448316618216bac4d5855470ba5879b8f8ed8a8"
+git-tree-sha1 = "f0616b08c8e7a12ac2b9dd3f4110ee6fd86a45c4"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_io.download]]
-    sha256 = "5bbd067638eb5ee156f65b9ec128624bfbf5b07c5ccc3688cd7c45614e7c87ff"
-    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.90300.1+0/GAP_pkg_io.v401.90300.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "39c3011af81b25b2d8208e355d80e0316fb8e727e510dd111ab1145bd02e6b54"
+    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.100000.0+0/GAP_pkg_io.v401.100000.0.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_io]]
 arch = "x86_64"
-git-tree-sha1 = "020b6a1b195d04a8b6dcf39e909c1053aedba24b"
+git-tree-sha1 = "1ab0cbcd34cd42ec37a92fa871126e354b120027"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_io.download]]
-    sha256 = "43cd9539fe73afe40734789562c037304d93d98b9d5acd095e3b4898121e401d"
-    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.90300.1+0/GAP_pkg_io.v401.90300.1.x86_64-linux-musl.tar.gz"
+    sha256 = "f1c7e22da8ad97b087c703f81b5dedc224e7de73978ec0d64c2fc3f74eda099b"
+    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.100000.0+0/GAP_pkg_io.v401.100000.0.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_io]]
 arch = "x86_64"
-git-tree-sha1 = "e0c101638a0f126d33a33df386c1af1c3beedb2c"
+git-tree-sha1 = "31626e8a1a66b31bdfed207adddcdb95cfaad9bd"
 os = "freebsd"
 
     [[GAP_pkg_io.download]]
-    sha256 = "3f84a17a4dc5818e5782cb28822a2c501a06346bd65b39201a524fff0c582d9f"
-    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.90300.1+0/GAP_pkg_io.v401.90300.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "ceb7ed26578a37146123c3008a9e8141fa47ec2fae24a59f3d3af27161faa3e0"
+    url = "https://github.com/lgoettgens/GAP_pkg_io_jll.jl/releases/download/GAP_pkg_io-v401.100000.0+0/GAP_pkg_io.v401.100000.0.x86_64-unknown-freebsd.tar.gz"
